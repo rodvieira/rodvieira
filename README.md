@@ -101,13 +101,6 @@ for Software Development
 
 ---
 
-## 📊 GitHub
-
-![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodvieira&show_icons=true&hide_border=true&theme=default)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rodvieira&layout=compact&hide_border=true&theme=default)
-
----
-
 ## 🤝 Let's talk
 
 Reach out on [LinkedIn](https://www.linkedin.com/in/rodrigo-vieira-dev/).
