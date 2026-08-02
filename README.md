@@ -1,7 +1,7 @@
 # Hi, I'm Rodrigo Vieira 👋
 
-**Senior Frontend Engineer** — React & TypeScript · Scalable Frontend Architecture ·
-Micro-Frontends & Design Systems
+**Senior Software Engineer** — React & TypeScript · Scalable Frontend Architecture ·
+Micro-Frontends & Design Systems · Golang · Node
 
 8+ years building scalable, production-grade React applications — Design Systems,
 Micro-Frontends, high-traffic checkout platforms, and complex administrative
@@ -19,7 +19,7 @@ Spec-Driven workflows with GitHub Spec Kit + Claude Code.
 ## 🔭 Currently
 
 - 💼 Senior Software Engineer at **NTConsult** — Design Systems, Micro-Frontends
-  (Qiankun), and a NestJS/GraphQL BFF on Hexagonal Architecture.
+  and a NestJS/GraphQL BFF on Hexagonal Architecture.
 - 🎯 Shipped **[Pricing Optimizer](https://pricing-optimizer-web.vercel.app)**
   end-to-end — an AI product split across a Go API and a Next.js frontend, two
   independently deployed repos sharing one OpenAPI contract.
@@ -88,7 +88,7 @@ Full history on [LinkedIn](https://www.linkedin.com/in/rodrigo-vieira-dev/).
 ![Vercel](https://img.shields.io/badge/Cloud-Vercel-informational?style=flat&logo=vercel&logoColor=white&color=2bbc8a)
 ![OpenTelemetry](https://img.shields.io/badge/Observability-OpenTelemetry-informational?style=flat&logo=opentelemetry&logoColor=white&color=2bbc8a)
 
-**Also:** Micro-Frontends (Qiankun) · Design Systems (Atomic Design, Storybook,
+**Also:** Micro-Frontends · Design Systems (Atomic Design, Storybook,
 Vanilla-Extract) · Hexagonal Architecture · DDD · Prompt Engineering
 
 ---
@@ -110,5 +110,4 @@ for Software Development
 
 ## 🤝 Let's talk
 
-Open to senior frontend and fullstack conversations — remote, international teams.
 Reach out on [LinkedIn](https://www.linkedin.com/in/rodrigo-vieira-dev/).
