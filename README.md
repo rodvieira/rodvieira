@@ -12,7 +12,7 @@ development: structured LLM tool calling, provider-agnostic architectures, and
 Spec-Driven workflows with GitHub Spec Kit + Claude Code.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rodrigo--vieira--dev-informational?style=flat&logo=linkedin&logoColor=white&color=2bbc8a)](https://www.linkedin.com/in/rodrigo-vieira-dev/)
-[![Location](https://img.shields.io/badge/Based%20in-S%C3%A3o%20Paulo%2C%20Brazil-informational?style=flat&logo=googlemaps&logoColor=white&color=2bbc8a)](https://github.com/rodvieira)
+[![Location](https://img.shields.io/badge/Based%20in-Brazil-informational?style=flat&logo=googlemaps&logoColor=white&color=2bbc8a)](https://github.com/rodvieira)
 
 ---
 
