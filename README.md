@@ -23,6 +23,9 @@ Spec-Driven workflows with GitHub Spec Kit + Claude Code.
 - 🎯 Shipped **[Pricing Optimizer](https://pricing-optimizer-web.vercel.app)**
   end-to-end — an AI product split across a Go API and a Next.js frontend, two
   independently deployed repos sharing one OpenAPI contract.
+- 🧩 Published **[enterprise-microfrontend-boilerplate](https://github.com/rodvieira/enterprise-microfrontend-boilerplate)**
+  — a Module Federation orchestrator for remotes that live in their own repos:
+  everything crosses the boundary as props, so a remote imports nothing from the shell.
 - 🧠 Working AI-native by design: Spec-Driven Development, `.claude/` workflow
   committed alongside the code, not bolted on after.
 - 🌎 Open to senior frontend / fullstack roles on international, remote-first teams.
@@ -30,6 +33,21 @@ Spec-Driven workflows with GitHub Spec Kit + Claude Code.
 ---
 
 ## 🚀 Featured projects
+
+### 🧩 [enterprise-microfrontend-boilerplate](https://github.com/rodvieira/enterprise-microfrontend-boilerplate) — *Micro-frontend orchestrator, Module Federation 2.0*
+
+A shell that composes micro-frontends living in **other repositories**: you hand it URLs,
+it mounts them at runtime. Everything crossing the boundary is a prop (`basePath`,
+`session`, `bus`), so a remote installs zero packages from the project and stays portable
+to its own repo. Per-environment registry fetched at startup, origin allow-list that also
+generates the CSP, contract version declared by the remote rather than asserted by the
+host, 209 unit + 15 e2e tests. The frame's layout sits outside Tailwind's layers, because
+a remote's stylesheet loads after the host's and its plain `.flex-col` silently outranks
+`md:flex-row`.
+
+`React 19` `Module Federation 2.0` `Rspack` `Turborepo` `Playwright`
+
+**[→ Live demo](https://enterprise-microfrontend-boilerplat.vercel.app/)** · [Repo](https://github.com/rodvieira/enterprise-microfrontend-boilerplate)
 
 ### 🎨 [pricing-optimizer-web](https://github.com/rodvieira/pricing-optimizer-web) — *AI pricing-page generator, frontend*
 
